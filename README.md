@@ -5,8 +5,8 @@
 ### 一、课程前的准备
 
 1. 下载安装 IDE 工具 [keil C51](https://www.keil.com/download/product/)，配置工具[ST 的 CubeMX](https://www.st.com/content/st_com/en/products/development-tools/software-development-tools/stm32-software-development-tools/stm32-configurators-and-code-generators/stm32cubemx.html)。
-2. 下载安装 [vscode](https://code.visualstudio.com/)，课程中的文档和代码都使用 vscode 编辑。为了获得所见即所得的 [Markdown](https://help.github.com/articles/github-flavored-markdown/) 语言编辑体验，可以使用 [Typora](http://typora.io/)
-3. 下载安装 git 客户端 [sourcetree](https://www.sourcetreeapp.com/)，课程使用 sourcetree 和 [github](http://www.github.com) 作为项目管理和协作系统。
+2. 下载安装 [vscode](https://code.visualstudio.com/)，课程中的文档和代码都使用virtual studio code 编辑。为了获得所见即所得的 [Markdown](https://help.github.com/articles/github-flavored-markdown/) 语言编辑体验，可以使用 [Typora](http://typora.io/)
+3. 下载安装 GIT 客户端 [sourcetree](https://www.sourcetreeapp.com/)，课程使用 sourcetree 和 [github](http://www.github.com) 作为项目管理和协作系统。
 4. git 入门请读 [Git教程](https://www.liaoxuefeng.com/wiki/896043488029600)，进阶请阅读 [git 权威指南](https://gitee.com/progit/) 或其 [英文版](https://git-scm.com/book/en/v2)。
 
 ### 二、课程目录结构
